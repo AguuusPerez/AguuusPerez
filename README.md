@@ -25,6 +25,11 @@ Este ultimo tiempo decidi darle una vuelta por completo a mi carrera profesional
   - Docker 
   - DataBase
 
+
+## 🖤 Get in touch: 
+* ✨ CodePen:   https://www.codepen.io/Agusperez
+* ✨ Linkedin:  https://www.linkedin.com/in/agustinandreaperez/
+
 <!---
 AguuusPerez/AguuusPerez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
