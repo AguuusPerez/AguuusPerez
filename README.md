@@ -20,9 +20,8 @@ Este ultimo tiempo decidi darle una vuelta por completo a mi carrera profesional
 
 ## Currently learning 🕵
 - **Competitive Programming**
-	- Python ❤️
+  - Python 
   - Mongo
-  - Docker 
   - DataBase
 
 
