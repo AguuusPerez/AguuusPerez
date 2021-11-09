@@ -2,7 +2,7 @@
 
 ## About me :mortar_board:
 Actualmente me encuentro cursando la Tecnicatura Superior en Desarrollo de Software en IFTS N18, donde busco mejorar y sacar el mayor rendimiento a mis skills como Desarrolladora Frontend💪🏼. 
-Este ultimo tiempo decidi darle una vuelta por completo a mi carrera profesional ya que me di cuenta que soy una apasionada de la tecnologia. Esto ultimo me ayudo a desarrollar una curiosad constante de aprender mas, por eso creo firmemente que ningun conocimiento es suficiente 🧠
+Este ultimo tiempo decidi darle una vuelta por completo a mi carrera profesional ya que me di cuenta que soy una apasionada de la tecnologia. Esto ultimo me ayudo a desarrollar una curiosad constante de aprender mas, por eso creo firmemente que ningun conocimiento es suficiente 🧠. 
 
 
 
