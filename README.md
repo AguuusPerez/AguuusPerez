@@ -9,13 +9,14 @@ Este ultimo tiempo decidi darle una vuelta por completo a mi carrera profesional
 ## What I know :computer:
 
 - **Frontend Development**
-	- HTML
+  - HTML
   - CSS 
   - SASS
   - Bootstrap
   - JavaScript
   - React 
   - Node.js
+  - Figma
 
 
 ## Currently learning 🕵
