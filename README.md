@@ -27,7 +27,7 @@ Este ultimo tiempo decidi darle una vuelta por completo a mi carrera profesional
 
 
 ## 🖤 Get in touch: 
-* ✨ CodePen:   https://www.codepen.io/Agusperez
+* ✨ CodePen:   
 * ✨ Linkedin:  https://www.linkedin.com/in/agustinandreaperez/
 
 <!---
