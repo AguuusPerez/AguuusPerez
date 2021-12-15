@@ -12,10 +12,8 @@ Este ultimo tiempo decidi darle una vuelta por completo a mi carrera profesional
   - HTML
   - CSS 
   - SASS
-  - Bootstrap
   - JavaScript
   - React 
-  - Node.js
   - Figma
 
 
