@@ -1,4 +1,4 @@
-## Hi! 👋🏼 Im Agus, Frontend Developer! 
+## Hi! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> Im Agus, Frontend Developer! 
 
 ## About me :mortar_board:
 Actualmente me encuentro cursando la Tecnicatura Superior en Desarrollo de Software en IFTS N18, donde busco mejorar y sacar el mayor rendimiento a mis skills como Desarrolladora Frontend💪🏼. 
