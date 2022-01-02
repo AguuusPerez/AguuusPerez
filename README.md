@@ -24,7 +24,7 @@ Este ultimo tiempo decidi darle una vuelta por completo a mi carrera profesional
   - DataBase
  
  
-![AguusPerez' GitHub stats](https://github-readme-stats.vercel.app/api?username=AguuusPerez&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AguuusPerez&layout=compact&theme=buefy)](https://github.com/aguuusperez/github-readme-stats)
+![AguusPerez GitHub stats](https://github-readme-stats.vercel.app/api?username=AguuusPerez&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AguuusPerez&layout=compact&theme=buefy)](https://github.com/aguuusperez/github-readme-stats)
 
 
 ## 🖤 Get in touch: 
