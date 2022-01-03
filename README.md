@@ -1,5 +1,5 @@
-## Hi human!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-My name is Agus - a FRONTEND developer and student Higher Technique in Software Development based in Buenos Aires, Argentina.
+## Hi human! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+My name is Agus - a <strong>FRONTEND developer</strong> and student Higher Technique in Software Development based in Buenos Aires, Argentina.
 
 ## Frontend skills
   - HTML5
