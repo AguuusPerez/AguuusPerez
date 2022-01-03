@@ -1,22 +1,19 @@
 ## Hi human!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
 My name is Agus - a FRONTEND developer and student Higher Technique in Software Development based in Buenos Aires, Argentina.
 
-## What I know :computer:
-
-- **Frontend Development**
-  - HTML
+## Frontend skills :computer:
+  - HTML5
   - CSS 
-  - SASS
+  - Sass
   - JavaScript
-  - React 
-  - Figma
+  - Git and GitHub
 
+  Currently learning React 🚀
 
-## Currently learning 🕵
-- **Competitive Programming**
+## Other skills 🕵
+  - MySQL
   - Python 
-  - Mongo
-  - DataBase
+  - Figma
  
  
 ![AguusPerez GitHub stats](https://github-readme-stats.vercel.app/api?username=AguuusPerez&hide=contribs,prs&theme=buefy&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AguuusPerez&layout=compact&theme=buefy)](https://github.com/aguuusperez/github-readme-stats)
