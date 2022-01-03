@@ -22,7 +22,7 @@ My name is Agus - a FRONTEND developer and student Higher Technique in Software 
 
 ## Get in touch: 
    
- ✨ Linkedin: [Agustina Perez](https://www.linkedin.com/in/agustinandreaperez/)
+ ✨ Linkedin: [Agustina Perez](https://www.linkedin.com/in/agustinandreaperez/) <br>
  ✨ Email: [agustinandrea.p@gmail.com](mailto:agustinandrea.p@gmail.com)
 
 <!---
