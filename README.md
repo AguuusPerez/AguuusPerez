@@ -4,8 +4,7 @@ My name is Agus - a <strong>FRONTEND developer</strong> and student Higher Techn
 ## Frontend skills
   - HTML5
   - CSS 
-  - Sass
-  - JavaScript
+  - Conocimientos de JavaScript
   - Git and GitHub
 
   Currently learning React 🚀
