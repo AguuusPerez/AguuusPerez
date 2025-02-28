@@ -21,7 +21,7 @@ My name is Agus - and i am studying <strong>FRONTEND web development</strong>, a
 
 ## Get in touch: 
    
- ✨ Linkedin: [Agustina Perez](https://www.linkedin.com/in/agustinandreaperez/) <br>
+ ✨ Linkedin: [Agustina Perez](https://www.linkedin.com) <br>
  ✨ CodePen: [AgusPerez](https://codepen.io/) <br>
  ✨ Email: [agustinandrea.p@gmail.com](mailto:agustinandrea.p@gmail.com)
 
